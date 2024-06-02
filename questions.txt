@@ -1,0 +1,15 @@
+What is the capital of Cameroon?;Yaoundé;Douala;Garoua;Bamenda;1
+Which is the largest city in Cameroon?;Douala;Yaoundé;Bafoussam;Ngaoundéré;1
+What is the official language of Cameroon?;French and English;Spanish and French;English and Spanish;French and German;1
+Which mountain is the highest in Cameroon?;Mount Cameroon;Mount Oku;Mount Manengouba;Mount Fako;2
+What is the currency of Cameroon?;CFA Franc;Naira;Euro;Dollar;1
+Which river forms part of the border between Cameroon and Nigeria?;Cross River;Nile River;Congo River;Benue River;2
+What is the name of the largest lake in Cameroon?;Lake Chad;Lake Nyos;Lake Bamendjing;Lake Barombi Mbo;2
+In which year did Cameroon gain independence from France?;1960;1958;1962;1964;1
+Which animal is a national symbol of Cameroon?;Lion;Elephant;Buffalo;Giraffe;1
+Which region is known as the 'breadbasket' of Cameroon?;West Region;Southwest Region;Northwest Region;Littoral Region;3
+What is the predominant religion in Cameroon?;Christianity;Islam;Hinduism;Buddhism;1
+Which football team won the African Cup of Nations for Cameroon in 2000 and 2002?;Indomitable Lions;Black Stars;Super Eagles;Desert Foxes;2
+What is the traditional musical genre of Cameroon?;Makossa;Salsa;Jazz;Blues;2
+Which famous Cameroon footballer played for FC Barcelona and Inter Milan?;Samuel Eto'o;Roger Milla;Rigobert Song;Patrick Mboma;1
+What is the name of the major port city in Cameroon?;Douala;Kribi;Limbe;Buea;1
